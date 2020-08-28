@@ -5,6 +5,10 @@ if a > 5:
 else:
     print('small')
 
+#java, c, c+=,javascript (삼항 연산자)
+#print(a > 5 ? 'big':'small')
+print('big' if a>5 else 'small' )
+
 # if ~ elif ~ elif ~ else
 n = 0
 if n > 0:

@@ -4,6 +4,7 @@ str2 = '"Hello World"'
 
 print(type(str1), type(str2))
 print(isinstance(str1, str))
+
 #여러줄 문자열
 
 str3 = 'ABC\nDEF\n가나다라마바사\n아자차카타파하'

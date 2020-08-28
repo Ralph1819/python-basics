@@ -41,5 +41,6 @@ print(s)
 
 #dict comprehension
 
-d= {s: len(s) for s in strings} # dictionary 이니까
+d= {s: len(s) for s in strings} #
+# dictionary 이니까
 print(d)
