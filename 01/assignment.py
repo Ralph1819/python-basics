@@ -54,14 +54,14 @@ x = 10
 y = 20
 print('==== swap ====')
 print(x, y)
-
+temp = x
+x = y
+y = temp
+print(x,y)
 
 print('==== before swap ====')
 
 #코드를 짜서
-x= 10
-x += 10
-y =+10
 print(x,y)
 print('==== after swap ====')
 
